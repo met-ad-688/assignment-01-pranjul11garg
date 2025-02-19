@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+pip 24.0 from /usr/lib/python3/dist-packages/pip (python 3.12)
+=======
 Package                     Version
 --------------------------- --------------
 appdirs                     1.4.4
@@ -295,3 +298,4 @@ webencodings                0.5.1
 wheel                       0.42.0
 widgetsnbextension          4.0.9
 zope.interface              6.1
+>>>>>>> origin/main

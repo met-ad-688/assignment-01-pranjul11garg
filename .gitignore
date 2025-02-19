@@ -169,3 +169,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+<<<<<<< HEAD
+questions.csv
+question_tags.csv
+stackoverflow.zip
+questions.csv
+question_tags.csv
+stackoverflow.zip
+=======
+>>>>>>> origin/main
